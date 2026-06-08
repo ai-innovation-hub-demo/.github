@@ -77,4 +77,7 @@ Examples:
 ## Production Repositories
 
 - One repository per solution  
-- Independent lifecycle  
+- Independent lifecycle
+
+## Getting Started
+Check out [Onboarding Guide](https://github.com/ai-innovation-hub-demo/templates/blob/main/Onboarding.md)
